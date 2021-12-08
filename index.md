@@ -4,7 +4,7 @@
 
 ### Python 
 
-[Earthquakes](/notebooks/earthquakes)
+[Earthquakes](/notebooks/earthquakes.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
