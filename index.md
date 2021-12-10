@@ -5,7 +5,7 @@
 ### Python 
 
 [Earthquakes](/notebooks/earthquakes.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Earthquakes_pandas_screenshot.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
