@@ -4,7 +4,7 @@
 
 ### Python 
 
-[Earthquakes](/notebooks/earthquakes.html)
+[Earthquakes - Pandas/Geopandas](/notebooks/earthquakes.html)
 <img src="images/Earthquakes_pandas_screenshot.png?raw=true"/>
 
 ---
